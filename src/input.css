@@ -37,7 +37,7 @@ h1{
     color: gray;
 }
 #svg-male-female{
-    background: url("./images/illustration-grow-together.svg");
+    background: url("../images/illustration-grow-together.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -57,12 +57,12 @@ h1{
     background-color:#f6fbff;
 }
 #svg-friends{
-    background: url(/images/illustration-flowing-conversation.svg);
+    background: url("../images/illustration-flowing-conversation.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
 #yur-users-svg{
-    background: url(/images/illustration-your-users.svg);
+    background: url("../images/illustration-your-users.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -74,13 +74,13 @@ h1{
     background-color: #00252e;
 }
 #window-svg{
-    background: url(/images/screen-mockups.svg);
+    background: url("../images/screen-mockups.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
 }
 #logo{
-    background: url(/images/logo.svg);
+    background: url("../images/logo.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
