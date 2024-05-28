@@ -37,7 +37,7 @@ h1{
     color: gray;
 }
 #svg-male-female{
-    background: url(/images/illustration-grow-together.svg);
+    background: url("./images/illustration-grow-together.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
